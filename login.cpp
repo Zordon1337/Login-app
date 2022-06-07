@@ -4,11 +4,6 @@
 #include <stdlib.h>
 using namespace std;
 
-int uczniowie;
-int cukierki;
-int x;
-int y;
-string PIN;
 string login;
 string haslo;
 
